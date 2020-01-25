@@ -41,6 +41,8 @@ crontab -e
 
 1. 在服务器运行时 `push.py` 中的  `conf.conf` 文件路径可能需要修改
 
+![img1](https://github.com/zyd16888/nCoV-Push-Python/blob/master/image/20200125173902.png)
+
 ## 效果截图
 
-
+![img2](https://github.com/zyd16888/nCoV-Push-Python/blob/master/image/20200125173927.jpg)
